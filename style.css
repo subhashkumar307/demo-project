@@ -1,5 +1,65 @@
-h1
+/* h1
 {
     background-color: black;
     color: white;
+} */
+h3
+{
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.left
+{
+    min-height: inherit;
+    width: 24%;
+    float: left;
+    position: fixed;
+    background-color: black;
+    color: white;
+    
+}
+.right
+{
+    width: 64%;
+    position: absolute;
+    left: 28%;
+}
+.navigate li
+{
+    font-size: 23px;
+    color: white;
+}
+span
+{
+    font-size: 30px;
+}
+.pg i
+{
+    font-size: 150px;
+}
+.ug i
+{
+    font-size: 150px;
+    margin-left: 50px;
+}
+.senior i
+{
+    font-size: 150px;
+    margin-left: 50px;
+}
+.metric i
+{
+    font-size: 150px;
+    margin-left: 50px;
+}
+.iconscontainer{
+    text-align: center;
+}
+a{
+    text-decoration: none;
 }
